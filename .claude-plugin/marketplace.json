@@ -1,0 +1,19 @@
+{
+  "name": "perry-fullstackmarketer-marketplace",
+  "owner": {
+    "name": "Perry-fullstackmarketer"
+  },
+  "metadata": {
+    "description": "Claude Code plugins for security and development workflows.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "security-audit",
+      "source": "./plugins/security-audit",
+      "description": "Defensive, source-first security auditing with multi-phase validation and structured reports.",
+      "version": "1.0.0",
+      "category": "development"
+    }
+  ]
+}
