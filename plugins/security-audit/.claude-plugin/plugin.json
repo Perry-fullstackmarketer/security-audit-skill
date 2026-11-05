@@ -1,0 +1,16 @@
+{
+  "name": "security-audit",
+  "description": "Defensive, source-first security auditing for codebases, APIs, services, CLI tools, libraries and daemons. Includes guidance mode and a six-phase full audit workflow.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Perry-fullstackmarketer"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "audit",
+    "vulnerability-research",
+    "code-review",
+    "claude-code"
+  ]
+}
